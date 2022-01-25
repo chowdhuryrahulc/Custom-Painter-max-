@@ -29,4 +29,28 @@
 // Listenable: notify client that value has been updated.
 // Why use super? What comes inside super?
 // MapEntry: key value pair representing an entry in Map.
-// 
+
+
+
+//todo Save Image in main.dart
+// base64 converts image(or any file) to String(to be saved or send).
+// Uint8List: List of Int (8 bit)
+// RenderRepaintBoundary: ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
